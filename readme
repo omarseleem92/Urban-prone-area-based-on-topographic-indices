@@ -1,4 +1,4 @@
 Here we share the code used for identifying flood prone areas in urban areas based on topographic wetness index (TWI) method. The method is described in details in the https://www.mdpi.com/2073-4441/13/18/2476
-
+The used files are on https://doi.org/10.5281/zenodo.7524491
 References:
 Seleem, O., Heistermann, M., & Bronstert, A. (2021). Efficient Hazard Assessment for Pluvial Floods in Urban Environments: A Benchmarking Case Study for the City of Berlin, Germany. Water, 13(18), 2476.
